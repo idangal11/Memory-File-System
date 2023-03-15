@@ -1,0 +1,44 @@
+C:\Users\idang\OneDrive\Documents\TinyMemFSApp\obj\Debug\TinyMemFSApp.csproj.AssemblyReference.cache
+C:\Users\idang\OneDrive\Documents\TinyMemFSApp\obj\Debug\TinyMemFSApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\idang\OneDrive\Documents\TinyMemFSApp\obj\Debug\TinyMemFSApp.Properties.Resources.resources
+C:\Users\idang\OneDrive\Documents\TinyMemFSApp\obj\Debug\TinyMemFSApp.csproj.GenerateResource.cache
+C:\Users\idang\OneDrive\Documents\TinyMemFSApp\obj\Debug\TinyMemFSApp.csproj.CoreCompileInputs.cache
+C:\Users\idang\OneDrive\Documents\TinyMemFSApp\bin\Debug\TinyMemFSApp.exe.config
+C:\Users\idang\OneDrive\Documents\TinyMemFSApp\bin\Debug\TinyMemFSApp.exe
+C:\Users\idang\OneDrive\Documents\TinyMemFSApp\bin\Debug\TinyMemFSApp.pdb
+C:\Users\idang\OneDrive\Documents\TinyMemFSApp\obj\Debug\TinyMemFSApp.Form1.resources
+C:\Users\idang\OneDrive\Documents\TinyMemFSApp\obj\Debug\TinyMemFSApp.exe
+C:\Users\idang\OneDrive\Documents\TinyMemFSApp\obj\Debug\TinyMemFSApp.pdb
+C:\Users\idang\OneDrive\Documents\os work 4\TinyMemFSApp\bin\Debug\TinyMemFSApp.exe.config
+C:\Users\idang\OneDrive\Documents\os work 4\TinyMemFSApp\bin\Debug\TinyMemFSApp.exe
+C:\Users\idang\OneDrive\Documents\os work 4\TinyMemFSApp\bin\Debug\TinyMemFSApp.pdb
+C:\Users\idang\OneDrive\Documents\os work 4\TinyMemFSApp\obj\Debug\TinyMemFSApp.csproj.AssemblyReference.cache
+C:\Users\idang\OneDrive\Documents\os work 4\TinyMemFSApp\obj\Debug\TinyMemFSApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\idang\OneDrive\Documents\os work 4\TinyMemFSApp\obj\Debug\TinyMemFSApp.Form1.resources
+C:\Users\idang\OneDrive\Documents\os work 4\TinyMemFSApp\obj\Debug\TinyMemFSApp.Properties.Resources.resources
+C:\Users\idang\OneDrive\Documents\os work 4\TinyMemFSApp\obj\Debug\TinyMemFSApp.csproj.GenerateResource.cache
+C:\Users\idang\OneDrive\Documents\os work 4\TinyMemFSApp\obj\Debug\TinyMemFSApp.csproj.CoreCompileInputs.cache
+C:\Users\idang\OneDrive\Documents\os work 4\TinyMemFSApp\obj\Debug\TinyMemFSApp.exe
+C:\Users\idang\OneDrive\Documents\os work 4\TinyMemFSApp\obj\Debug\TinyMemFSApp.pdb
+C:\Users\idang\Desktop\העלאת פרוייקטים\מערכות הפעלה\עבודה 4 מערכות הפעלה\TinyMemFSApp\bin\Debug\TinyMemFSApp.exe.config
+C:\Users\idang\Desktop\העלאת פרוייקטים\מערכות הפעלה\עבודה 4 מערכות הפעלה\TinyMemFSApp\bin\Debug\TinyMemFSApp.exe
+C:\Users\idang\Desktop\העלאת פרוייקטים\מערכות הפעלה\עבודה 4 מערכות הפעלה\TinyMemFSApp\bin\Debug\TinyMemFSApp.pdb
+C:\Users\idang\Desktop\העלאת פרוייקטים\מערכות הפעלה\עבודה 4 מערכות הפעלה\TinyMemFSApp\obj\Debug\TinyMemFSApp.csproj.AssemblyReference.cache
+C:\Users\idang\Desktop\העלאת פרוייקטים\מערכות הפעלה\עבודה 4 מערכות הפעלה\TinyMemFSApp\obj\Debug\TinyMemFSApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\idang\Desktop\העלאת פרוייקטים\מערכות הפעלה\עבודה 4 מערכות הפעלה\TinyMemFSApp\obj\Debug\TinyMemFSApp.Form1.resources
+C:\Users\idang\Desktop\העלאת פרוייקטים\מערכות הפעלה\עבודה 4 מערכות הפעלה\TinyMemFSApp\obj\Debug\TinyMemFSApp.Properties.Resources.resources
+C:\Users\idang\Desktop\העלאת פרוייקטים\מערכות הפעלה\עבודה 4 מערכות הפעלה\TinyMemFSApp\obj\Debug\TinyMemFSApp.csproj.GenerateResource.cache
+C:\Users\idang\Desktop\העלאת פרוייקטים\מערכות הפעלה\עבודה 4 מערכות הפעלה\TinyMemFSApp\obj\Debug\TinyMemFSApp.csproj.CoreCompileInputs.cache
+C:\Users\idang\Desktop\העלאת פרוייקטים\מערכות הפעלה\עבודה 4 מערכות הפעלה\TinyMemFSApp\obj\Debug\TinyMemFSApp.exe
+C:\Users\idang\Desktop\העלאת פרוייקטים\מערכות הפעלה\עבודה 4 מערכות הפעלה\TinyMemFSApp\obj\Debug\TinyMemFSApp.pdb
+C:\Users\idang\Desktop\העלאת פרוייקטים\מערכות הפעלה\עבודה 4 מערכות הפעלה\TinyMemFSApp - final\bin\Debug\TinyMemFSApp.exe.config
+C:\Users\idang\Desktop\העלאת פרוייקטים\מערכות הפעלה\עבודה 4 מערכות הפעלה\TinyMemFSApp - final\bin\Debug\TinyMemFSApp.exe
+C:\Users\idang\Desktop\העלאת פרוייקטים\מערכות הפעלה\עבודה 4 מערכות הפעלה\TinyMemFSApp - final\bin\Debug\TinyMemFSApp.pdb
+C:\Users\idang\Desktop\העלאת פרוייקטים\מערכות הפעלה\עבודה 4 מערכות הפעלה\TinyMemFSApp - final\obj\Debug\TinyMemFSApp.csproj.AssemblyReference.cache
+C:\Users\idang\Desktop\העלאת פרוייקטים\מערכות הפעלה\עבודה 4 מערכות הפעלה\TinyMemFSApp - final\obj\Debug\TinyMemFSApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\idang\Desktop\העלאת פרוייקטים\מערכות הפעלה\עבודה 4 מערכות הפעלה\TinyMemFSApp - final\obj\Debug\TinyMemFSApp.Form1.resources
+C:\Users\idang\Desktop\העלאת פרוייקטים\מערכות הפעלה\עבודה 4 מערכות הפעלה\TinyMemFSApp - final\obj\Debug\TinyMemFSApp.Properties.Resources.resources
+C:\Users\idang\Desktop\העלאת פרוייקטים\מערכות הפעלה\עבודה 4 מערכות הפעלה\TinyMemFSApp - final\obj\Debug\TinyMemFSApp.csproj.GenerateResource.cache
+C:\Users\idang\Desktop\העלאת פרוייקטים\מערכות הפעלה\עבודה 4 מערכות הפעלה\TinyMemFSApp - final\obj\Debug\TinyMemFSApp.csproj.CoreCompileInputs.cache
+C:\Users\idang\Desktop\העלאת פרוייקטים\מערכות הפעלה\עבודה 4 מערכות הפעלה\TinyMemFSApp - final\obj\Debug\TinyMemFSApp.exe
+C:\Users\idang\Desktop\העלאת פרוייקטים\מערכות הפעלה\עבודה 4 מערכות הפעלה\TinyMemFSApp - final\obj\Debug\TinyMemFSApp.pdb
